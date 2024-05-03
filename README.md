@@ -1,17 +1,21 @@
 # app-dev
-My first repository.
-# H1
-## H2
-### H3
 **bold text**
+My first repository.
+# VARIETIES
 *italicized text*
-> blockquote
-> 1. End of the Fuckng World
+1. End of the Fuckng World
 2. Queens Gambit
 3. DARLING IN THE FRANX
+## hahahaha
 - DARLING IN THE FRANX
 - End of the Fuckng World
 - Queens Gambit
+### H3
+
+
+> blockquote
+>
+
 - `code`
 - ---
 [title](https://www.example.com)
